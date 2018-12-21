@@ -1,6 +1,8 @@
 # AndroidTB
 Login Register Firebase, Fragment dan Camera Foto and Video
 
-Halaman Login dan Register
+1. Splass Screen
 
-https://github.com/Azima13/AndroidTB/blob/master/Register.jpeg
+2. Halaman Login dan Register
+
+3. Fragment dan API
