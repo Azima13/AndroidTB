@@ -7,4 +7,4 @@ Login Register Firebase, Fragment dan Camera Foto and Video
 
 3. Fragment dan API
 
-<img src="Login.jpg" width=100px height=200px>
+<img src="Login.jpeg" width=200px height=300px>
